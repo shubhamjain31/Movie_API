@@ -5,7 +5,7 @@ This project demonstrates the use of Django Rest Framework and Django ORM.
 
 ## Screenshots
 
-In the below image, You can see how the movie API looks and add a movie,
+In the below image, You can see how the movie API looks and add a movie.
 ![Home Page](https://github.com/shubhamjain31/Movie_API/blob/main/Screenshots/Screenshot%20from%202021-02-10%2023-03-53.jpg)  
 
 
